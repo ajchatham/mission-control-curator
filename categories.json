@@ -201,7 +201,21 @@
     "slug": "hardware",
     "description": "projects focused on developing hardware for Web3 apps and protocols"
   },
-
+  {
+    "name": "Geospatial Data",
+    "slug": "Geospatial Data",
+    "description": "projects focused on connecting Geospatial Data to Web3 apps and protocols"
+  },
+  {
+    "name": "Mobility",
+    "slug": "Mobility",
+    "description": "projects focused on connecting moving objects and associated infrastructre to Web3 apps and protocols"
+  },
+    {
+    "name": "Robotics",
+    "slug": "Robotics",
+    "description": "projects focused on connecting robots and related tooling to Web3 apps and protocols"
+  },
   {
     "name": "Health & Wellness",
     "slug": "health-and-wellness",
